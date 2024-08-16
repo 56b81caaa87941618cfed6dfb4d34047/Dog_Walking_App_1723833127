@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What level of transparency do you prefer for the glassmorphism effect in the top navigation bar?\", \"option1\": \"High transparency for a more ethereal feel\", \"option2\": \"Low transparency for better readability\"}, {\"question 2\": \"For the purple nebula background image, do you have a preference between a static image or an animated representation?\", \"option1\": \"Static image for simplicity and faster loading times\", \"option2\": \"Animated representation for a more dynamic and engaging user experience\"}], \"input_token_count\": 285, \"output_token_count\": 116, \"time_taken\": \"0:00:03.247917\"}",
+        "message_id": "guest16082024183309",
+        "timestamp": "16082024183315",
+        "component_file_name": "simple_header_component_1723833130",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"Got it, incorporating glassmorphism and generating a purple nebula background.\"",
         "message_id": "guest16082024183309",
