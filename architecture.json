@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd glassmorphism tailwind styling to this top nav and please generate a background image of a purple nebula"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nreplace background with a pink nebula scene (generated image)"
     }
 ]
