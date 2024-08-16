@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the form for node operator signups to include field validation (e.g., ensure email format is correct, minimum stake amount is met)?\", \"option1\": \"Yes, include field validation for data integrity.\", \"option2\": \"No, basic form submission without validation is fine.\"}, {\"question 2\": \"Should the signup form be a separate page or integrated within the existing page content?\", \"option1\": \"Create a separate page for the signup form.\", \"option2\": \"Integrate the form within the existing page, replacing the specified content.\"}], \"input_token_count\": 278, \"output_token_count\": 129, \"time_taken\": \"0:00:04.945469\"}",
+        "message_id": "guest16082024184321",
+        "timestamp": "16082024184328",
+        "component_file_name": "simple_cta_component_1723833130",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"User registration form with email, password, and dog information fields\", \"checked\": true}, {\"feature\": \"Form validation for input fields (e.g., email format, password strength)\", \"checked\": true}, {\"feature\": \"CAPTCHA integration to prevent spam submissions\", \"checked\": false}, {\"feature\": \"Confirmation email system after successful signup\", \"checked\": true}, {\"feature\": \"Progress bar or loading animation during form submission\", \"checked\": false}, {\"feature\": \"Ability to upload dog pictures and documents during signup\", \"checked\": true}], \"input_token_count\": 232, \"output_token_count\": 129, \"time_taken\": \"0:00:04.949051\"}",
         "message_id": "guest16082024184321",
