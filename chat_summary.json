@@ -48,5 +48,11 @@
         "content": "replace the background with pink background",
         "timestamp": "16082024183500",
         "message_id": "guest16082024183500"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Understood, I'll replace the background with pink.",
+        "timestamp": "16082024183501",
+        "message_id": "guest16082024183500"
     }
 ]
