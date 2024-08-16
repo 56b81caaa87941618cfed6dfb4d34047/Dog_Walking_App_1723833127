@@ -11,6 +11,15 @@
     {
         "role": "user",
         "content": "replace all this content with a form for submitted node operator signup info and stake",
+        "message_id": "guest16082024184321",
+        "timestamp": "16082024184321",
+        "component_file_name": "simple_cta_component_1723833130",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "replace all this content with a form for submitted node operator signup info and stake",
         "message_id": "guest16082024184118",
         "timestamp": "16082024184119",
         "component_file_name": "simple_cta_component_1723833130",
