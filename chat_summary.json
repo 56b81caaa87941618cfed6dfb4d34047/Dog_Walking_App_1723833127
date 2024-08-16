@@ -6,5 +6,11 @@
         "timestamp": "1723833130",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add glassmorphism tailwind styling to this top nav and please generate a background image of a purple nebula",
+        "timestamp": "16082024183310",
+        "message_id": "guest16082024183309"
     }
 ]
