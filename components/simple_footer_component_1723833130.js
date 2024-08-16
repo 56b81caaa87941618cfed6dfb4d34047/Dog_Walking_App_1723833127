@@ -8,7 +8,7 @@ Vue.component("simple_footer_component_1723833130", {
                 <div id="footer-content" class="text-center">
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-gray-900 dark:text-white">
-                            <img id="footer-logo" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Dog_Walking_App_1723833127/main/images/1b094654624748fcb3e35e6ef7a5c26a.jpeg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
+                            <img id="footer-logo" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Dog_Walking_App_1723833127/main/images/cbdb48bfb94b4630961d9a231e252813.jpeg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                             PawPatrol: Your Ultimate Dog Walking Companion
                         </a>
                     </div>

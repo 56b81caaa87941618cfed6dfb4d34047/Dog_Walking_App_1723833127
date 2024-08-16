@@ -6,5 +6,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nreplace background with a pink nebula scene (generated image)"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add glassmorphism tailwind styling to this top nav and please generate a background image of a purple nebula\nAI: \"Got it, incorporating glassmorphism and generating a purple nebula background.\"\nAI: Affirmative, replacing background with a generated pink nebula scene.\n\nThis is the user's current request of changes to be made:\nreplace the background with pink background"
     }
 ]
