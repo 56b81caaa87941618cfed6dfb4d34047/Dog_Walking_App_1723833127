@@ -7,7 +7,7 @@ Vue.component("simple_header_component_1723833130", {
         <nav id="nav-bar" class="bg-white border-gray-200 py-2.5 dark:bg-gray-900">
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
-                    <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
+                    <img id="logo-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Dog_Walking_App_1723833127/main/images/9984dddf3a7c4f228c61e922ac40df3b.jpeg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
                     <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">PawPatrol: Your Ultimate Dog Walking Companion</span>
                 </a>
                 <div id="menu-toggle-button" class="flex items-center lg:order-2">
