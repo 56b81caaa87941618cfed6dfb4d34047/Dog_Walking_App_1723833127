@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the pink background, do you prefer a solid color or a gradient effect?\", \"option1\": \"Solid pink color\", \"option2\": \"Pink gradient effect\"}, {\"question 2\": \"Should the new background maintain the glassmorphism effect applied to elements on top of it?\", \"option1\": \"Yes, keep the glassmorphism effect\", \"option2\": \"No, remove the glassmorphism effect\"}], \"input_token_count\": 340, \"output_token_count\": 100, \"time_taken\": \"0:00:02.977490\"}",
+        "message_id": "guest16082024183500",
+        "timestamp": "16082024183505",
+        "component_file_name": "simple_footer_component_1723833130",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Understood, I'll replace the background with pink.",
         "message_id": "guest16082024183500",
