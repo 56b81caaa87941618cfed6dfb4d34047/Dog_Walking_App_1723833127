@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add glassmorphism tailwind styling to this top nav and please generate a background image of a purple nebula\nAI: \"Got it, incorporating glassmorphism and generating a purple nebula background.\"\nAI: Affirmative, replacing background with a generated pink nebula scene.\n\nThis is the user's current request of changes to be made:\nreplace the background with pink background"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nAI: Understood, I'll replace the background with pink.\nUser: replace the background with pink background\nAI: Affirmative, replacing background with a generated pink nebula scene.\nAI: \"Got it, incorporating glassmorphism and generating a purple nebula background.\"\nUser: add glassmorphism tailwind styling to this top nav and please generate a background image of a purple nebula\n\nThis is the user's current request of changes to be made:\nmake the background a generated image of pink nebula"
     }
 ]
